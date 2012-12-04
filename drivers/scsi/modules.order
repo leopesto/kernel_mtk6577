@@ -1,0 +1,2 @@
+kernel/drivers/scsi/scsi_tgt.ko
+kernel/drivers/scsi/scsi_wait_scan.ko
